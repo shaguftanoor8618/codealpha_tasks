@@ -29,8 +29,8 @@ Final model: **Logistic Regression** (best 5-fold cross-validation accuracy, 0.8
 1. Install Python 3.9 or higher.
 2. Download this repository (Code, then Download ZIP) and extract it, or clone it:
    ```
-   git clone https://github.com/YOUR_USERNAME/CodeAlpha_HeartDiseasePrediction.git
-   cd CodeAlpha_HeartDiseasePrediction
+   git clone https://github.com/shaguftanoor8618/codealpha_tasks.git
+   cd codealpha_tasks/Task1_DiseasePrediction
    ```
 3. Create and activate a virtual environment.
    - Windows:
