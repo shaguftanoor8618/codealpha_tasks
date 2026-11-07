@@ -18,7 +18,7 @@ Heart Disease dataset, UCI Machine Learning Repository (303 patients, 13 feature
 Final model: **Logistic Regression** (best 5-fold cross-validation accuracy, 0.828).
 
 ## Project Files
-- `HeartDisease_Prediction.ipynb`: data cleaning, model training and evaluation
+- `HeartDisease_prediction.ipynb`: data cleaning, model training and evaluation
 - `app.py`: Flask website backend
 - `templates/index.html`: website page
 - `heart_model.pkl`, `features.pkl`: saved model and feature list
@@ -55,7 +55,7 @@ Final model: **Logistic Regression** (best 5-fold cross-validation accuracy, 0.8
 
 To re-train the model, open the notebook:
 ```
-jupyter notebook HeartDisease_Prediction.ipynb
+jupyter notebook HeartDisease_prediction.ipynb
 ```
 
 ## Disclaimer
